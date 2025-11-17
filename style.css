@@ -402,3 +402,8 @@ span {
     font-size: 1.1rem;
   }
 }
+
+.timeline {
+  display: flex;
+  flex-direction: column-reverse;
+}
